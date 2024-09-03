@@ -1,0 +1,27 @@
+{
+  "name": "puhping.js",
+  "version": "0.0.1",
+  "description": "Check for dead links in a file",
+  "main": "puhping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puhping.js",
+    "deadlinks",
+    "file"
+  ],
+  "author": "Peter Wan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4"
+  },
+  "github": [
+    "https://www.google.com/",
+    "https://www.google.ca"
+  ],
+  "links": [
+    "https://axios-http.com/docs/example",
+    "http://httpforever.com/"
+  ]
+}
