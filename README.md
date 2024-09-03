@@ -30,20 +30,20 @@ The result should look something like this:
 ```sh
 node puhping node_modules/axios/CHANGELOG.md
 ```
-
+```yaml
 Found 497 unique URLs:
 
-1. <span style="color: blue;">https://github.com/axios/axios/compare/v1.7.3...v1.7.4</span> - <span style="color: green;">Status: 200</span>
-2. <span style="color: blue;">https://github.com/axios/axios/issues/6539</span> - <span style="color: green;">Status: 200</span>
-3. <span style="color: blue;">https://github.com/axios/axios/issues/6543</span> - <span style="color: green;">Status: 200</span>
-4. <span style="color: blue;">https://github.com/axios/axios/commit/6b6b605eaf73852fb2dae033f1e786155959de3a</span> - <span style="color: green;">Status: 200</span>
-5. <span style="color: blue;">https://github.com/axios/axios/commit/07a661a2a6b9092c4aa640dcc7f724ec5e65bdda</span> - <span style="color: green;">Status: 200</span>
-6. <span style="color: blue;">https://avatars.githubusercontent.com/u/31389480?v&#x3D;4&amp;s&#x3D;18</span> - <span style="color: green;">Status: 200</span>
-7. <span style="color: blue;">https://github.com/levpachmanov</span> - <span style="color: green;">Status: 200</span>
-8. <span style="color: blue;">https://avatars.githubusercontent.com/u/41283691?v&#x3D;4&amp;s&#x3D;18</span> - <span style="color: green;">Status: 200</span>
-9. <span style="color: blue;">https://github.com/hainenber</span> - <span style="color: green;">Status: 200</span>
-10. <span style="color: blue;">https://github.com/axios/axios/compare/v1.7.2...v1.7.3</span> - <span style="color: green;">Status: 200</span>
-
+1. https://github.com/axios/axios/compare/v1.7.3...v1.7.4 - Status: 200
+2. https://github.com/axios/axios/issues/6539 - Status: 200
+3. https://github.com/axios/axios/issues/6543 - Status: 200
+4. https://github.com/axios/axios/commit/6b6b605eaf73852fb2dae033f1e786155959de3a - Status: 200
+5. https://github.com/axios/axios/commit/07a661a2a6b9092c4aa640dcc7f724ec5e65bdda - Status: 200
+6. https://avatars.githubusercontent.com/u/31389480?v=4&s=18 - Status: 200
+7. https://github.com/levpachmanov - Status: 200
+8. https://avatars.githubusercontent.com/u/41283691?v=4&s=18 - Status: 200
+9. https://github.com/hainenber - Status: 200
+10. https://github.com/axios/axios/compare/v1.7.2...v1.7.3 - Status: 200
+```
 ## 4. Contributing to puhping.js
 
 To contribute to this project, please follow the instructions found in [CONTRIBUTING.md](./CONTRIBUTING.md)
